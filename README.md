@@ -1,8 +1,8 @@
 # Team Profile Generator
 
-### Github : 
+### Github : https://github.com/micha2791/portfolio-generator
 
-### Walkthrough video : 
+### Walkthrough video : https://drive.google.com/file/d/1CkZSSsqDB3j69UHn96gMxJEhnJdEA3PB/view
 
 ## Description
 a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
